@@ -1,1 +1,3 @@
 Este é uma funcionalidade adicional que incrementa uma nova versão minor.
+
+Essa linha aqui simula um bugfix que gerou a release 0.2.1 com o patch de correção.

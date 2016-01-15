@@ -25,3 +25,7 @@ git push origin master
 ## Versão 0.2.0
 
 * Adição da funcionalidade Teste3.txt
+
+## Versão 0.2.1
+
+* Bugfix da funcionalidade Teste3.txt
