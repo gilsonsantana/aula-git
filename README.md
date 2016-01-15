@@ -17,3 +17,11 @@ git push origin master
 * Por fim foi realizada a criação deste arquivo README.md utilizando a interface WEB do Github e empregando os padrões de tipografia do Markdown Editor.
 
 =)
+
+## Versão 0.1.0 - Release inicial
+
+* Criação das funcionalidades básicas.
+
+## Versão 0.2.0
+
+* Adição da funcionalidade Teste3.txt

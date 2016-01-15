@@ -1,0 +1,1 @@
+Este é uma funcionalidade adicional que incrementa uma nova versão minor.
